@@ -1,0 +1,22 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Change Tracker",
+		"CTags",
+		"FileDiffs",
+		"FindKeyConflicts",
+		"GitGutter",
+		"HexViewer",
+		"Http Requester",
+		"Package Control",
+		"PlainTasks",
+		"SFTP",
+		"SideBarEnhancements",
+		"sublime-github",
+		"SublimeLinter",
+		"Theme - Phoenix",
+		"Theme - Soda",
+		"Vintage Surround"
+	]
+}
