@@ -1,6 +1,7 @@
 {
-    "custom_font" : "Consolas",
+    // https://github.com/facelessuser/HexViewer
 
+    "custom_font" : "Consolas",
     "custom_font_size" : 0
 
 }

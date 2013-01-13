@@ -1,4 +1,5 @@
 {
+    // https://github.com/SublimeLinter/SublimeLinter:w
     "sublimelinter_popup_errors_on_save": false,
     "sublimelinter_gutter_marks": true
 }

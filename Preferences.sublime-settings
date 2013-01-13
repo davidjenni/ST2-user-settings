@@ -3,6 +3,7 @@
 	"bold_folder_labels": true,
 	"ensure_newline_at_eof_on_save": true,
 	"font_size": 11,
+	"git_gutter_live_mode": true,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
