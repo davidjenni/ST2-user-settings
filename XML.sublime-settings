@@ -1,0 +1,17 @@
+{
+	"extensions":
+	[
+		"xml",
+		"xaml",
+		"xsd",
+		"xslt",
+		"svg",
+		"csproj",
+		"proj",
+		"vcxproj",
+		"config",
+		"settings",
+		"targets",
+		"props"
+	]
+}
