@@ -1,4 +1,5 @@
 {
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -8,6 +9,7 @@
 		"GitGutter",
 		"HexViewer",
 		"Http Requester",
+		"MSBuild",
 		"Package Control",
 		"PlainTasks",
 		"SFTP",
